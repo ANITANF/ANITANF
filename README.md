@@ -1,2 +1,3 @@
 #Skripsi Penelitian 2
-#
+#PENELITIAN UNTUK MEMENUHI SYARAT S1
+
